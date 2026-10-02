@@ -13,8 +13,10 @@ Welcome to my repository for the Android Development Internship! This repository
 | **Task 1** | [`MyFirstApp`](./MyFirstApp) | Introductory Android Application built with Kotlin & Material Design. |
 | **Task 2** | [`SimpleCalculator`](./SimpleCalculator) | Simple Android Calculator UI Application built with Kotlin & XML Layouts. |
 | **Task 3** | [`CollegeAppView`](./CollegeAppView) | Android WebView application to load and navigate Panskura Banamali College portal seamlessly. |
+| **Task 4** | [`Recyclebing`](./Recyclebing) | Android application built with Kotlin, RecyclerView, and CardView to render dynamic Friend Requests. |
 
 ---
 
 **Developed by Sneha Bez**
+
 
