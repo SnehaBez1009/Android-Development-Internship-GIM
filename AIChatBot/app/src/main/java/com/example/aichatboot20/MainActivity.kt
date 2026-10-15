@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val PREFS_NAME = "ai_chat_prefs"
         private const val KEY_API_KEY = "gemini_api_key"
-        // Enter your Gemini API key here
+        // User provided Gemini API key
         private const val DEFAULT_API_KEY = "YOUR_GEMINI_API_KEY"
     }
 
@@ -208,15 +208,12 @@ class MainActivity : AppCompatActivity() {
             return "I was created and developed by Sneha Bez."
         }
 
-        // Models verified directly from Google Generative Language API
+        // Standard Gemini model names from Google AI API
         val models = listOf(
-            "gemini-flash-latest",
-            "gemini-flash-lite-latest",
             "gemini-3.5-flash",
-            "gemini-3.7-flash",
+            "gemini-3.5-flash-lite",
             "gemini-3.8-flash",
-            "gemini-2.5-flash-lite",
-            "gemini-3.1-flash-lite"
+            "gemini-3.7-flash"
         )
 
         var lastError = "Request failed"
