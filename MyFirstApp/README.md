@@ -6,6 +6,14 @@ Welcome to my first Android application! This is my project for **Task 1** as a 
 
 ---
 
+## 📸 App Preview
+
+<p align="center">
+  <img src="screenshots/app_screenshot.png" alt="My First App Screenshot" width="280" />
+</p>
+
+---
+
 ## ✨ Features
 
 - **Simple UI:** Easy to use user interface with buttons and input fields.
@@ -22,7 +30,7 @@ Welcome to my first Android application! This is my project for **Task 1** as a 
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 MyFirstApp/
@@ -30,6 +38,7 @@ MyFirstApp/
 │   └── src/main/
 │       ├── java/       # App logic (MainActivity.kt)
 │       └── res/        # App design (activity_main.xml)
+├── screenshots/        # App preview images
 └── build.gradle.kts
 ```
 
@@ -44,3 +53,6 @@ MyFirstApp/
 ---
 
 **Developed by Sneha Bez** | Task 1
+
+
+
