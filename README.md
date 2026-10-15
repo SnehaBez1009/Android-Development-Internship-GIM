@@ -1,4 +1,4 @@
-# 📱 Android Development Internship
+﻿# 📱 Android Development Internship
 
 **Developer:** Sneha Bez
 
@@ -15,9 +15,8 @@ Welcome to my repository for the Android Development Internship! This repository
 | **Task 3** | [`CollegeAppView`](./CollegeAppView) | Android WebView application to load and navigate Panskura Banamali College portal seamlessly. |
 | **Task 4** | [`Recyclebing`](./Recyclebing) | Android application built with Kotlin, RecyclerView, and CardView to render dynamic Friend Requests. |
 | **Task 5** | [`AIChatBot`](./AIChatBot) | AI Chatbot application powered by Google Gemini API built with Kotlin & RecyclerView. |
+| **Task 6** | [`LinkdinProfile`](./LinkdinProfile) | LinkedIn Profile UI clone application built with Kotlin, ConstraintLayout, and Material Design 3. |
 
 ---
 
 **Developed by Sneha Bez**
-
-
