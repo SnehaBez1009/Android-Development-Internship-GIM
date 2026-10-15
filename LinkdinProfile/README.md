@@ -12,6 +12,14 @@ A modern, responsive native Android application replicating the official **Linke
 
 ---
 
+## 📸 App Preview
+
+<p align="center">
+  <img src="./projectOverview/overview.jpg" alt="LinkedIn Profile App Overview" width="320"/>
+</p>
+
+---
+
 ## 📱 Features
 
 - **Profile Header & Banner:** Custom cover photo, circular profile avatar, verified badge, pronouns (`She/Her`), headline, and location.
@@ -37,6 +45,8 @@ A modern, responsive native Android application replicating the official **Linke
 
 ```text
 LinkdinProfile/
+├── projectOverview/
+│   └── overview.jpg            # App preview screenshot
 ├── app/
 │   ├── src/main/
 │   │   ├── java/com/example/linkdinprofile/
