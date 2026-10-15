@@ -25,3 +25,6 @@ An Android WebView application built with Kotlin to load and navigate the **Pans
 2. Ensure internet connection on your device or emulator.
 3. Build and run the app (`Shift + F10`).
 
+---
+
+**Developed by Sneha Bez** | Task 3

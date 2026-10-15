@@ -38,6 +38,7 @@ SimpleCalculator/
 │           └── values/
 │               ├── colors.xml        # Color palette
 │               └── strings.xml       # Text resources
+└── build.gradle.kts
 ```
 
 ---
@@ -48,4 +49,6 @@ SimpleCalculator/
 2. Select **Open** and choose the `SimpleCalculator` folder.
 3. Run the application on an emulator or physical device (`Shift + F10`).
 
+---
 
+**Developed by Sneha Bez** | Task 2

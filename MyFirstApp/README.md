@@ -22,7 +22,7 @@ Welcome to my first Android application! This is my project for **Task 1** as a 
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
 MyFirstApp/
@@ -44,6 +44,3 @@ MyFirstApp/
 ---
 
 **Developed by Sneha Bez** | Task 1
-
-
-

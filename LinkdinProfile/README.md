@@ -1,4 +1,4 @@
-# 💼 LinkedIn Profile UI - Sneha Bez
+# 💼 LinkedIn Profile UI - Task 5
 
 A modern, responsive native Android application replicating the official **LinkedIn Profile Interface**, crafted with **Kotlin**, **XML**, **ConstraintLayout**, and **Material Design 3** components.
 
@@ -6,8 +6,9 @@ A modern, responsive native Android application replicating the official **Linke
 
 ## 👩‍💻 Profile Overview
 - **Name:** Sneha Bez
+- **Task:** Task 5
 - **Role:** BCA Student | Technology & AI Enthusiast | Android Developer
-- **Design:** Modern LinkedIn Dark/Light Theme UI clone with modular cards
+- **Design:** Modern LinkedIn Dark Theme UI clone with modular cards
 
 ---
 
@@ -34,7 +35,7 @@ A modern, responsive native Android application replicating the official **Linke
 
 ## 📂 Project Structure
 
-```
+```text
 LinkdinProfile/
 ├── app/
 │   ├── src/main/
@@ -61,15 +62,12 @@ LinkdinProfile/
 
 ## 🚀 How to Run the Project
 
-1. Open **Android Studio** (Hedgehog / Iguana / Jellyfish / Ladybug or newer recommended).
-2. Click **File > Open...** and select this directory (`Linkdinprofile`).
+1. Open **Android Studio**.
+2. Click **File > Open...** and select this directory (`LinkdinProfile`).
 3. Allow Gradle to sync the dependencies.
 4. Connect an Android device (USB debugging enabled) or start an Android Virtual Device (AVD).
 5. Click the **Run** button (`Shift + F10`) to build and launch the app.
 
 ---
 
-## 👤 Author
-
-**Sneha Bez**  
-*Android & Software Development Enthusiast*
+**Developed by Sneha Bez** | Task 5

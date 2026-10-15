@@ -46,3 +46,7 @@ Recyclebing/
 2. Click on **Open** and select the `Recyclebing` project folder.
 3. Wait for Gradle sync to complete.
 4. Run the app on an Emulator or Physical Device (`Shift + F10`).
+
+---
+
+**Developed by Sneha Bez** | Task 4
